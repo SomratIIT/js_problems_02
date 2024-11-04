@@ -21,7 +21,7 @@ function calculator(x,y,operation){
     {
         const result = add(x,y);
         return result;
-    }
+    } 
    else if(operation=='sub')
     {
         const result = sub(x,y);
